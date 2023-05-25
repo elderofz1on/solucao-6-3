@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="b)7|I^9fX(?fOItJ|{*k" x="0" y="0"></block><block type="device_forever" id="s-HEu{xq:8Q_7YpT6pzH" x="205" y="0"></block><block type="device_gesture_event" id="x5bS~a:}b7JuQ[~k7H_(" x="-1" y="135"><field name="NAME">Gesture.ThreeG</field><statement name="HANDLER"><block type="device_show_leds" id="7Z%|nhYw!q`#;)TH$ERM"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_pause" id="D5[dDQIhwR8iJ5-d,O50"><value name="pause"><shadow type="timePicker" id="mctzo8(wNqug53Qd/.d="><field name="ms">1000</field></shadow></value><next><block type="device_clear_display" id="uUm9L_x^E`Ol.S~ChWjO"></block></next></block></next></block></statement></block></xml>
